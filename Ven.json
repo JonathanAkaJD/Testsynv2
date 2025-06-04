@@ -135,12 +135,13 @@
         }
     ],
     "cacheServers": [
-        "cache.bouncy.cc"
+        ""
     ],
     "defaults": {
         "packages": [
-            "https://raw.githubusercontent.com/JonathanAkaJD/KonnectScraper/refs/heads/main/jakedtest.json?token=GHSAT0AAAAAADEPPPKER3P7F4AHU3FI4DLU2B7W34A"
+            "https://raw.githubusercontent.com/h53h54h55/Syncler2/main/Manifest-Full.json"
         ],
+        "cacheServer": ""
     
     }
 }
