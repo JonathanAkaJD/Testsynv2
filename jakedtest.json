@@ -1,4 +1,4 @@
-{"_manifest":{"name":"JakedUp - Test","id":"com.jakedup.hybrid.test","version":1741495609,"classPath":"","permaUrl":"https://raw.githubusercontent.com/JonathanAkaJD/Testsynv2/refs/heads/main/jakedtest.json","type":"express"},
+{"_manifest":{"name":"Enhanced Variables Test","id":"com.jakedup.hybrid.test","version":1,"classPath":"","permaUrl":"https://raw.githubusercontent.com/JonathanAkaJD/Testsynv2/main/jakedtest.json","type":"express"},
 "torrentio":{"name":"Torrentio","enabled":true,"languages":["en"],"base_url":"https://torrentio.strem.fun","response_type":"json","movie":{"query":"/stream/movie/{query}.json","keywords": [
     "{title} {year}",
     "{title} {imdbId}",
