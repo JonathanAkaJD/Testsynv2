@@ -6,7 +6,7 @@
     "website": "https://www.reddit.com/r/lobstor",
     "packages": [
         {
-            "manifest": "https://raw.githubusercontent.com/JonathanAkaJD/KonnectScraper/refs/heads/main/jakedtest.json?token=GHSAT0AAAAAADEPPPKER3P7F4AHU3FI4DLU2B7W34A",
+            "manifest": "https://raw.githubusercontent.com/JonathanAkaJD/Testsynv2/refs/heads/main/jakedtest.json",
             "description": "expanded variables test"
         },
         {
