@@ -135,12 +135,12 @@
         }
     ],
     "cacheServers": [
-        ""
+        "cache.bouncy.cc"
     ],
     "defaults": {
         "packages": [
             "https://raw.githubusercontent.com/JonathanAkaJD/Testsynv2/refs/heads/main/jakedtest.json"
         ],
-        "cacheServer": ""
+        "cacheServer": "cache.bouncy.cc"
     }
 }
