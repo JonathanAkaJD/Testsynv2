@@ -6,7 +6,7 @@
     "website": "https://www.reddit.com/r/lobstor",
     "packages": [
         {
-            "manifest": "https://raw.githubusercontent.com/JonathanAkaJD/KonnectScraper/refs/heads/main/jakedtest.json?token=GHSAT0AAAAAADEPPPKE66XGFQYVX7HUXU6S2B7WQIQ",
+            "manifest": "https://raw.githubusercontent.com/JonathanAkaJD/KonnectScraper/refs/heads/main/jakedtest.json?token=GHSAT0AAAAAADEPPPKER3P7F4AHU3FI4DLU2B7W34A",
             "description": "expanded variables test"
         },
         {
@@ -139,8 +139,8 @@
     ],
     "defaults": {
         "packages": [
-            "https://raw.githubusercontent.com/h53h54h55/Syncler2/main/Manifest-Full.json"
+            "https://raw.githubusercontent.com/JonathanAkaJD/KonnectScraper/refs/heads/main/jakedtest.json?token=GHSAT0AAAAAADEPPPKER3P7F4AHU3FI4DLU2B7W34A"
         ],
-        "cacheServer": "cache.bouncy.cc"
+    
     }
 }
